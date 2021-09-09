@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 👋 Hullo, I’m [Tim James](https://github.com/Tim-W-James)
+<!-- https://shields.io/ -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/timothy-william-james/">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
@@ -22,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 Passionate about software development, writing code, and making things happen.
 <br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=6&layout=compact)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=Tim-W-James&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_rank=true&line_height=24)
 <br>

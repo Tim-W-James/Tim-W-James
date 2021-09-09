@@ -51,6 +51,7 @@ Most of my university work can be found on <a href="https://gitlab.cecs.anu.edu.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)

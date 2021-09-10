@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 Passionate about software development, writing code, and making things happen.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=6&layout=compact&hide=ASP.NET,ShaderLab,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=6&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=Tim-W-James&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&hide_rank=true&line_height=24)
 <br>
 

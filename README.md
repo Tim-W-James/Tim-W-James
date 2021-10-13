@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Interested in front-end development, games programming, project management
 - 📫 How to reach me: [Email](mailto:tim.jameswork9800@gmail.com "tim.jameswork9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Facebook](https://www.facebook.com/TimJames9800 "TimJames9800") || [Twitter](https://twitter.com/explosivefridge "ExplosiveFridge")
 - 🗺️ Located near Canberra, Australia
-- 😄 Open for internships or part-time opportunities
+- 👨‍💼 Junior Software Dev at [Agile Digital](https://agiledigital.com.au/ "Agile Digital Website")
 - 📝 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
 
 Passionate about software development, writing code, and making things happen.

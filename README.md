@@ -32,6 +32,7 @@ Passionate about software development, writing code, and making things happen.
 
 ### 🖥️ Major Projects
 <!-- table -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
 | 2021 | [ANU TechLauncher VR Group Project](https://github.com/VR-Observatory/SidingSpringObservatory "Project Repo") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) ![Oculus](https://img.shields.io/badge/-Oculus-black?style=flat-square&logo=oculus) ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender) ![Premiere](https://img.shields.io/badge/-Premiere-black?style=flat-square&logo=adobepremierepro)|
@@ -53,17 +54,23 @@ Most of my university work can be found on <a href="https://gitlab.cecs.anu.edu.
 ---
 
 ### 🛠️ Familiar Technologies
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell)
 ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square)
 ![Ada](https://img.shields.io/badge/-Ada-black?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
@@ -79,10 +86,10 @@ Most of my university work can be found on <a href="https://gitlab.cecs.anu.edu.
 
 ---
 
-### 🧔 What I do when I'm not writing code
+<!-- ### 🧔 What I do when I'm not writing code
 - ✨ **Interests**: Hiking, Creative Writing, Philosophy, Guitar, Board Games, Astronomy
 - 🎮 **Video Games**: Hollow Knight, Monster Hunter, Subnautica
 - 🎥 **Movies**: Bladerunner 2049, Mad Max: Fury Road, What We Do in the Shadows
 - 📺 **TV Shows**: The Expanse, Breaking Bad, Game of Thrones
 - 📚 **Books**: Dune
-- 🎵 **Music**: Tame Impala
+- 🎵 **Music**: Tame Impala -->

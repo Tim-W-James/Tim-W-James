@@ -4,13 +4,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 👋 Hullo, I’m [Tim James](https://github.com/Tim-W-James)
-<!-- https://shields.io/ -->
+<!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/timothy-william-james/">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:tim.jameswork9800@gmail.com">
   <img src="https://img.shields.io/badge/Email-tim.jameswork9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ </a>
+ <a href="https://dev.to/timwjames">
+  <img src="https://img.shields.io/badge/Blog-dev.to%2Ftimwjames-006400?style=flat-square&logo=devdotto&logoColor=white">
  </a>
 </p>
 
@@ -19,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 - 💻 Interested in front-end development, games programming, project management
 - 📫 How to reach me: [Email](mailto:tim.jameswork9800@gmail.com "tim.jameswork9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Facebook](https://www.facebook.com/TimJames9800 "TimJames9800") || [Twitter](https://twitter.com/TimWJames "Tim W James")
 - 🗺️ Located near Canberra, Australia
-- 📝 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
+- 💼 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
+- 📝 [Blog](https://dev.to/timwjames)
 
 Passionate about software development, writing code, and making things happen.
 <br>
@@ -53,7 +57,7 @@ Most of my university work can be found on <a href="https://gitlab.cecs.anu.edu.
 
 ---
 
-### 🛠️ Familiar Technologies
+### 🛠️ Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)

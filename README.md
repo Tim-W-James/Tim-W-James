@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🗺️ Located near Canberra, Australia
 - 💼 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
 - 📝 [Blog](https://dev.to/timwjames)
-- :globe_with_meridians: [Personal Website](https://timjames.dev/ "timjames.dev")
+- 🌐 [Personal Website](https://timjames.dev/ "timjames.dev")
 
 Passionate about software development, writing code, and making things happen.
 <br>

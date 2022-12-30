@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 Passionate about software development, writing code, and making things happen.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
 ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=Tim-W-James&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 <br>
 
@@ -44,8 +44,12 @@ Passionate about software development, writing code, and making things happen.
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
+| 2023 | [timjames.dev](https://github.com/Tim-W-James/timjames.dev "Project Repo") | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions) |
+| 2022 | [Finance Tracking Tooling](https://github.com/Tim-W-James/finance-tooling "Project Repo") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
+| 2022 | [MQTT Analyser](https://github.com/Tim-W-James/mqtt-analyser "Project Repo") | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![MQTT](https://img.shields.io/badge/-MQTT-black?style=flat-square&logo=mqtt) |
 | 2021 | [ANU TechLauncher VR Group Project](https://github.com/VR-Observatory/SidingSpringObservatory "Project Repo") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) ![Oculus](https://img.shields.io/badge/-Oculus-black?style=flat-square&logo=oculus) ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender) ![Premiere](https://img.shields.io/badge/-Premiere-black?style=flat-square&logo=adobepremierepro)|
-| 2021 | [Machine Learning Data Visualizations & Analysis](https://github.com/Tim-W-James/Python-Data-Reference-Code "My Python Reference Code") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square) |
+| 2021 | [Distributed Concurrent Communication System](https://github.com/Tim-W-James/gliding-in-space "Project Repo") | ![Ada](https://img.shields.io/badge/-Ada-black?style=flat-square)|
+| 2021 | [Machine Learning Data Visualizations & Analysis](https://github.com/Tim-W-James/Python-Data-Reference-Code "My Python Reference Code") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
 | 2020 | [GPS Android App Game](https://github.com/Tim-W-James/Java-GPS-Android-Game) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
 | 2020 | [Digital Synthesizer ADSR Envelope](https://github.com/Tim-W-James/ARMv7-Digital-Synthesizer-ADSR) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
 | 2020 | [Synchronous Serial Message Passing](https://github.com/Tim-W-James/ARMv7-Synchronous-Serial-Message-Passing) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
@@ -57,12 +61,13 @@ Passionate about software development, writing code, and making things happen.
 | 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 
 <br>
-Find more on [https://timjames.dev/](https://timjames.dev/projects)
+Find more on https://timjames.dev/projects, including projects not on GitHub.
 
 ---
 
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)

@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 💼 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
 - 📝 [Blog](https://dev.to/timwjames)
 
+Passionate about software development, writing code, and making things happen.
 <br>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
@@ -47,8 +48,13 @@ You can click the Preview link to take a look at your changes.
 | 2021 | [Machine Learning Data Visualizations & Analysis](https://github.com/Tim-W-James/Python-Data-Reference-Code "My Python Reference Code") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square) |
 | 2020 | [GPS Android App Game](https://github.com/Tim-W-James/Java-GPS-Android-Game) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
 | 2020 | [Digital Synthesizer ADSR Envelope](https://github.com/Tim-W-James/ARMv7-Digital-Synthesizer-ADSR) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
+| 2020 | [Synchronous Serial Message Passing](https://github.com/Tim-W-James/ARMv7-Synchronous-Serial-Message-Passing) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
+| 2019 | [Interactive Procedurally Generated Text Experience](https://github.com/Tim-W-James/JavaScript-Interactive-Procedural-Text-Experience) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![p5js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5dotjs) |
+| 2019 | [Block Puzzle Game](https://github.com/Tim-W-James/Java-Block-Puzzle-Game) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square) |
 | 2019 | [Minimax AI for Sushi Go](https://github.com/Tim-W-James/Sushi-Go-AI) | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
 | 2018 | [2D Game Level Procedural Generation](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
+| 2018 | [Raspberry Pi Weather System](https://github.com/Tim-W-James/Raspberry-Pi-Weather-Station) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
+| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
 
 <br>
 Find more on [https://timjames.dev/](https://timjames.dev/projects)
@@ -57,15 +63,14 @@ Find more on [https://timjames.dev/](https://timjames.dev/projects)
 
 ### 🛠️ Core Technologies
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-black?style=flat-square&logo=amazonaws)
-
 ---
 
 <!-- ### 🧔 What I do when I'm not writing code
 - ✨ **Interests**: Hiking, Creative Writing, Philosophy, Guitar, Board Games, Astronomy
+- 🎮 **Video Games**: Hollow Knight, Monster Hunter, Subnautica
 - 🎮 **Video Games**: Hollow Knight, Monster Hunter, Subnautica - Find me on [Steam](https://steamcommunity.com/id/ExplosiveFridge)
 - 🎥 **Movies**: Bladerunner 2049, Mad Max: Fury Road, What We Do in the Shadows
 - 📺 **TV Shows**: The Expanse, Breaking Bad, Game of Thrones

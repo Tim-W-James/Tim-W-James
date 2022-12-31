@@ -58,7 +58,7 @@ Passionate about software development, writing code, and making things happen.
 | 2019 | [Minimax AI for Sushi Go](https://github.com/Tim-W-James/Sushi-Go-AI) | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
 | 2018 | [2D Game Level Procedural Generation](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
 | 2018 | [Raspberry Pi Weather System](https://github.com/Tim-W-James/Raspberry-Pi-Weather-Station) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
-| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B) |
+| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) |
 
 <br>
 Find more on https://timjames.dev/projects.

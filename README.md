@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/timjames/badges "Credly")
 - 📫 How to reach me: [Email](mailto:tim.james.work9800@gmail.com "tim.james.work9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Twitter](https://twitter.com/TimWJames "@TimWJames")
 - 🗺️ Located in **Canberra, Australia**
-- 💼 [CV/Resume](https://github.com/Tim-W-James/Tim-W-James/blob/main/Tim%20W%20James%20CV.pdf "CV/Resume")
 - 📝 [Blog](https://dev.to/timwjames)
 
 Passionate about software development, writing code, and making things happen.

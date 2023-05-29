@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/timothy-william-james/">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.jameswork9800@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.jameswork9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ <a href="mailto:tim.james.work9800@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tim.james.work9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
  <a href="https://dev.to/timwjames">
   <img src="https://img.shields.io/badge/Blog-dev.to%2Ftimwjames-006400?style=flat-square&logo=devdotto&logoColor=white">

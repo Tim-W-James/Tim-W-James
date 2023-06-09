@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Email-tim.james.work9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
  <a href="https://timjames.dev/blog">
-  <img src="https://img.shields.io/badge/Blog-dev.to%2Ftimwjames-006400?style=flat-square&logo=devdotto&logoColor=white">
+  <img src="https://img.shields.io/badge/Blog-timjames.dev%2Fblog-006400?style=flat-square&logo=devdotto&logoColor=white">
  </a>
 </p>
 

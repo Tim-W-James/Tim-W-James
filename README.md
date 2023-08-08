@@ -59,7 +59,7 @@ Passionate about software development, writing code, and making things happen.
 | 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) |
 
 <br>
-Find more on https://timjames.dev/projects
+Find more on [timjames.dev/projects](https://timjames.dev/projects)
 
 ---
 

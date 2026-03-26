@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 - 🌐 Check out my [website](https://timjames.dev/ "timjames.dev")
-- 👨‍💼 **Software Engineer** at [Agile Digital](https://github.com/agiledigital "Agile Digital Website")
+- 👨‍💼 **Senior Software Engineer** at [Agile Digital](https://github.com/agiledigital "Agile Digital Website")
 - 🎓 **Bachelor of Information Technology** at the [Australian National University](https://www.anu.edu.au/ "ANU")
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/timjames/badges "Credly")
 - 📫 How to reach me: [Email](mailto:tim.james.work9800@gmail.com "tim.james.work9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Twitter](https://twitter.com/TimWJames "@TimWJames")
